@@ -1,2 +1,2 @@
-# cyclistic-bike-data-analysis
+# cyclistic-bike-share-data-analysis
 Project done using Python
